@@ -1,1 +1,1 @@
-# python_curs1
+# Git start course
